@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manpreet Singh Sidhu</h1>
+<h1 align="center">Hi 👋, I am Manpreet Singh Sidhu</h1>
 <h3 align="center">An aspiring Full-Stack web developer.</h3>
 
 - 🔭 I’m currently working on [Projectify](https://projectify-in.netlify.app/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, DSA and C++**
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, SQL**
+- 💬 Ask me about **HTML5, CSS, JavaScript, SQL, C, Python**
 
 - 📫 How to reach me **preetsidhu2549@gmail.com**
 
