@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Manpreet Singh Sidhu</h1>
 <h3 align="center">An aspiring Full-Stack web developer.</h3>
+<img align="right" alt="Coding" width="400" src="coder.gif">
 
 - 🔭 I’m currently working on [Projectify](https://projectify-in.netlify.app/)
 
