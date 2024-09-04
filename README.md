@@ -43,7 +43,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=manpreetsidhhu&show_icons=true&theme=tomorrow" alt="Manpreet's GitHub stats"/>
   
-  <img src="https://streak-stats.demolab.com?user=Rajeev12R&theme=dracula&border_radius=4.5" alt="Manpreet's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=manpreetsidhhu&theme=dracula&border_radius=4.5" alt="Manpreet's GitHub Streak"/>
 
 </div>
 
