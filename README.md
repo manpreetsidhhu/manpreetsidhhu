@@ -39,11 +39,11 @@
 
 # 📊 Stats
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreetsidhhu&show_icons=true&theme=tomorrow" alt="Manpreet's GitHub stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=manpreetsidhhu&show_icons=true&theme=tomorrow" alt="Manpreet's GitHub stats"/>
   
-  <img src="https://streak-stats.demolab.com?user=manpreetsidhhu&theme=dracula&border_radius=4.5" alt="Manpreet's GitHub Streak"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=manpreetsidhhu&theme=dracula&border_radius=4.5" alt="Manpreet's GitHub Streak"/>
 
 </div>
 
