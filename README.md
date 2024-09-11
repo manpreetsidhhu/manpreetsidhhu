@@ -39,7 +39,7 @@
 
 # 📊 Stats
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=manpreetsidhhu&show_icons=true&theme=tomorrow" alt="Manpreet's GitHub stats"/>
   
