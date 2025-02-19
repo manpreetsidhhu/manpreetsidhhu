@@ -3,11 +3,12 @@
 <h3 align="center">An aspiring Full-Stack web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif">
 
-- 🔭 I’m currently working on [Projectify](https://projectify-in.netlify.app/)
+- 🔭 I’m currently working on LPUConnect+
+<!--[Projectify](https://projectify-in.netlify.app/)-->
 
-- 🌱 I’m currently learning **JavaScript, DSA and C++**
+- 🌱 I’m currently learning **JavaScript, DSA, Java and C++**
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, SQL, C, Python**
+- 💬 Ask me about **HTML5, CSS, JavaScript, SQL, C/C++, Python**
 
 - 📫 How to reach me **preetsidhu2549@gmail.com**
 
