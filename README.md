@@ -73,54 +73,9 @@
 <tr>
 <td width="50%">
 
-### 🎯 PreetProjects - Portfolio Hub
-
-[![PreetProjects](https://img.shields.io/badge/-Explore%20All%20Projects-147efb?style=for-the-badge&logo=web&logoColor=white)](https://manpreetsidhhu.github.io/preetprojects/)
-
-A comprehensive showcase of all my web development projects including Calculator, Tic Tac Toe, SpendSmart, GreenLeaf, Poetry Collection, and MySeen with modern UI/UX design.
-
-### 🤖 AI Storytelling
-
-[![AI Storytelling](https://img.shields.io/badge/-Experience%20AI%20Stories-147efb?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/manpreetsidhhu/ai_storytelling)
-
-A creative AI storytelling project blending CSS visuals with dynamic text presentation.
-
-### 💬 UniChat
-
-[![UniChat](https://img.shields.io/badge/-Secure%20Messaging-147efb?style=for-the-badge&logo=chat&logoColor=white)](https://github.com/manpreetsidhhu/uniChat)
-
-Secure, real-time messaging platform with end-to-end encryption and socket programming.
-
-### ⚡ CPU Scheduler
-
-[![CPU Scheduler](https://img.shields.io/badge/-CPU%20Optimization-147efb?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/manpreetsidhhu/cpuScheduler)
-
-Energy-efficient CPU scheduling algorithm developed in Python for optimized performance.
-
-</td>
-<td width="50%">
-
-### ☕ Java Learning Journey
-
-[![Java](https://img.shields.io/badge/-Java%20Practice-147efb?style=for-the-badge&logo=java&logoColor=white)](https://github.com/manpreetsidhhu/Java)
-
-Comprehensive Java and OOP concepts learning repository with hands-on examples.
-
-### 📚 Java DSA
-
-[![JavaDSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-147efb?style=for-the-badge&logo=java&logoColor=white)](https://github.com/manpreetsidhhu/JavaDSA)
-
-Curated collection of DSA notes, implementations, and problem-solving exercises.
-
-### ⚛️ Learn React
-
-[![Learn React](https://img.shields.io/badge/-React%20Learning%20Path-147efb?style=for-the-badge&logo=react&logoColor=white)](https://github.com/manpreetsidhhu/learn-react)
-
-Comprehensive guide to mastering React.js with hands-on projects and examples.
-
 ### 🌐 Portfolio Website
 
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-147efb?style=for-the-badge&logo=web&logoColor=white)](https://manpreetsidhhu.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-147efb?style=for-the-badge&logo=web&logoColor=white)](https://manpreet.vercel.app/)
 
 Personal portfolio website showcasing my skills and professional journey.
 
@@ -154,7 +109,7 @@ Personal portfolio website showcasing my skills and professional journey.
 
 ```javascript
 const manpreet = {
-  code: ["JavaScript", "HTML", "CSS", "Python"],
+  code: ["Java", "ReactJs"],
   technologies: {
     frontEnd: {
       js: ["React", "Vanilla JS"],
